@@ -1,1 +1,1 @@
-web: table-tennis-backend
+web: bin/table-tennis-backend

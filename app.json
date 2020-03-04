@@ -1,0 +1,10 @@
+{
+  "name": "Table Tennis Backend",
+  "description": "Backend service for table tennis application.",
+  "keywords": [
+    "go"
+  ],
+  "website": "https://github.com/SEALAB-Software/table-tennis-backend",
+  "repository": "https://github.com/SEALAB-Software/table-tennis-backend",
+  "buildpacks": "heroku/go"
+}
